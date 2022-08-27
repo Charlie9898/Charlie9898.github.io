@@ -9,7 +9,7 @@ The file will contain:
 
 Below is an illustration photo
 
-![This is an image](https://cdn.cnn.com/cnnnext/dam/assets/150324154003-01-internet-cats-restricted-medium-plus-169.jpg)
+![The sample image](https://cdn.cnn.com/cnnnext/dam/assets/150324154003-01-internet-cats-restricted-medium-plus-169.jpg)
 
 ## Contact
 Email: che22@ncsu.edu  

@@ -14,3 +14,10 @@ Understanding the returned data of the API is quite hard, so it took me some tim
 – what would you do differently in approaching a similar project in the future?
 
 I should discuss with my partner about everything we find regarding the API, the initial plan for the EDA, and the expected returned data form API before writting the functions to grab the data. I tried my best to extract suitable data from the API for the EDA, but there still were some issues for us to digest the data and summarize some meaningful findings from the EDA.
+
+
+Rendered github pages repo:
+https://charlie9898.github.io/ST-558-Project-2/
+
+Regular repo:
+https://github.com/Charlie9898/ST-558-Project-2

@@ -1,6 +1,6 @@
 # ST 558 - Charlie He Blog
-This is the Blog page of Charlie for ST 558 Data Science for Statisticians.
-Charlie is a second year graduate student in NCSU department of statistics. 
+This is the Blog page of Charlie for ST 558 Data Science for Statisticians.  
+Charlie is a second year graduate student in NCSU department of statistics.   
 
 The file will contain:
 - A list of content

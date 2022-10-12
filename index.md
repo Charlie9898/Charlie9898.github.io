@@ -1,6 +1,6 @@
-# ST 558 HW2 - Blog Info Update
-I am following the HW instruction to make this page.  
-But currently there is nothing much I can show here.  
+# ST 558 - Charlie He Blog
+This is the Blog page of Charlie for ST 558 Data Science for Statisticians.
+Charlie is a second year graduate student in NCSU department of statistics. 
 
 The file will contain:
 - A list of content

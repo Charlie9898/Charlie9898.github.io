@@ -12,5 +12,6 @@ The automating and rendering section is kind of hard to understand. I am not ver
 3. What are your big take-aways from this project?
 When developing a data analysis program, it can save much time to consider applying automating. The key idea should be generalizing the data format and code for performing the analysis. The narratives should also be reasonable for the generated batch of reports.
 
-Rendered page: https://kebreeze.github.io/558Project3/
-Repo: https://github.com/kebreeze/558Project3
+Rendered page: https://kebreeze.github.io/558Project3/  
+  
+Repo: https://github.com/kebreeze/558Project3  

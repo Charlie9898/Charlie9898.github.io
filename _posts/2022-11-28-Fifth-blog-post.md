@@ -1,0 +1,6 @@
+What things are you going to do differently in practice now that you've had this course?
+The first thing is that when I am working on a data science problem, I will now consider it a project from a systematic perspective rather than decomposing the problem into several statistical questions. I believe this can be good practice for me to become more professional in data science and prepare for more complex issues in practice. In addition, the Markdown and version control tool greatly improved my collaboration skills using data analysis tools. The knowledge learned from this course covers a lot about data representation. Such skills helped me better convey my work to others and improve communication.
+
+
+Data science (and statistics) is a huge field. What do you hope to do in relation to data science (and statistics) in your future career? What aspects/areas do you want to learn more about?
+Yes, I love data science and would prefer to go with it for my future career. I would like to learn data manipulation (eg: SQL), sophisticated databases (eg: linked graph database), big data and cloud computing, etc. These areas are highly related to my current research/working focus. They are also rising stars in statistical practice.
